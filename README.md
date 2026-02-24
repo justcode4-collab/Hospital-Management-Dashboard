@@ -1,11 +1,13 @@
-📌 Project Overview
+# Hospital-Management-Dashboard :
+ 
+ Project Overview
 ------------------------
 
 This project presents an interactive Hospital Management Dashboard built using Power BI to analyze hospital operations, patient data, doctor specialization, billing insights, and payment trends.
 
 The dashboard helps stakeholders monitor KPIs, track revenue performance, and identify operational patterns.
 
-🎯 Business Problem
+ Business Problem
 -------------------------------
 
 Hospitals generate large volumes of operational and billing data.
@@ -22,7 +24,7 @@ Revenue analysis by state
 Disease trend monitoring
 
 
-📊 Dashboard KPIs
+ Dashboard KPIs
 -----------------------------
 
 1. Total Patients: 10,000
@@ -37,25 +39,25 @@ Disease trend monitoring
 
 6. Average Patient Age: 46
 
-📈 Key Visualizations
+ Key Visualizations
 -----------------------------------
-1️⃣ Doctors by Specialization
+1. Doctors by Specialization
 
    - Distribution across General Medicine, Neurology, Pediatrics, Surgery, Orthopedics, Cardiology, ENT.
 
-2️⃣ Total Bill Amount by Payment Mode
+2. Total Bill Amount by Payment Mode
 
    - Comparison of payment channels
 
 Revenue contribution breakdown
 
-3️⃣ Disease Analysis
+3. Disease Analysis
 
    - Patient count by disease type
 
 Trend monitoring
 
-4️⃣ State-wise Revenue Analysis
+4. State-wise Revenue Analysis
 
   - Total billing amount
 
@@ -64,7 +66,7 @@ Trend monitoring
   - Geographic financial insights# Hospital-Management-Dashboard
 
 
-📊 Business Insights Derived
+ Business Insights Derived
 ---------------------------------
 
 1. Nearly 50% of revenue remains pending → indicates collection inefficiency.
@@ -74,3 +76,7 @@ Trend monitoring
 3. Certain states show higher pending amounts → possible billing process gaps.
 
 4. Disease trend analysis helps in resource planning.
+
+## Dashboard Preview
+-------------------------
+SnapShot: https://github.com/justcode4-collab/Hospital-Management-Dashboard/blob/main/SnapShot%20of%20Dashboard.png
