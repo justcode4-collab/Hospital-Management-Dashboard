@@ -79,4 +79,5 @@ Trend monitoring
 
 ## Dashboard Preview
 -------------------------
+Dashboard looks like: ![Alt text].(https://github.com/justcode4-collab/Hospital-Management-Dashboard/blob/main/SnapShot%20of%20Dashboard.png)
 SnapShot: ![Dashboard Preview].(https://github.com/justcode4-collab/Hospital-Management-Dashboard/blob/main/SnapShot%20of%20Dashboard.png)
